@@ -1,5 +1,7 @@
 # 🚐 Yellow Traveller: Endless Forest Road Trip
 
+> **🎮 Play the Game Live:** [https://sandeep7764.github.io/yellow-traveller/](https://sandeep7764.github.io/yellow-traveller/)
+
 **Yellow Traveller** is an immersive 3D endless forest driving and survival overland game built with **Three.js** and **Tailwind CSS**. Navigate a winding pine highway through day and night, manage your fuel and fatigue, haul courier cargo between 10km towns, and upgrade your expedition fleet!
 
 ---
