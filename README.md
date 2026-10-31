@@ -51,18 +51,6 @@
 
 ---
 
-## 🚀 How to Host on GitHub Pages (Free)
-
-1. Create a new public repository on [GitHub](https://github.com/).
-2. Name your repository (e.g., `yellow-traveller-game`).
-3. Upload your game file and rename it strictly to **`index.html`**.
-4. Go to your repository **Settings** → **Pages**.
-5. Under **Build and deployment**, set the Branch to **`main`** (or `master`) and folder to `/ (root)`, then click **Save**.
-6. Your game will be live in 1 minute at:
-   `https://your-username.github.io/yellow-traveller-game/`
-
----
-
 ## 🎮 Game Modes
 
 - **Casual Mode**: Allows manual time toggles (`[T]`) and weather switches (`[V]`) anytime.
